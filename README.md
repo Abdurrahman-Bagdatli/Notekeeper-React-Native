@@ -1,4 +1,23 @@
+# Project Overview
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+https://github.com/user-attachments/assets/302b894c-1148-4187-829e-cb4b1372978c
+
+### Technologies Used in the Project:
+
+- **React Native**
+- **HTTP GET/POST Requests**
+- **MySQL**
+- **Flask**
+- **React Navigation**
+- **Lottie Animation**
+- **Iconsax**
+- **Redux**
+- **Git**
+- **GitHub**
+- **React Native AsyncStorage**
+- **Redux Actions**
+- **Custom Components & Colors**
 
 # Getting Started
 
